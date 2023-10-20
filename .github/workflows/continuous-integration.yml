@@ -2,7 +2,7 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - main
+      - test-release
 jobs:
   bumpversion:
     runs-on: ubuntu-latest
