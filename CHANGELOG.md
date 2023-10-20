@@ -1,3 +1,11 @@
+## v1.1.0-test-release.0 - 2023-10-20
+
+### [1.1.0-test-release.0](https://github.com/julianramirez2/openedx-wordpress-ecommerce/compare/v1.0.0...v1.1.0-test-release.0) (2023-10-20)
+
+#### Features
+
+- release ([a2e6625](https://github.com/julianramirez2/openedx-wordpress-ecommerce/commit/a2e6625b166fbf9af9eb2235f83023b792d70d5d))
+
 ## v1.14.3 - 2023-10-13
 
 ### [1.14.3](https://github.com/eduNEXT/openedx-wordpress-ecommerce/compare/v1.14.2...v1.14.3) (2023-10-13)
