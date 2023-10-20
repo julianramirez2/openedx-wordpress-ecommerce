@@ -1,4 +1,4 @@
-# ⭐ Open edX WooCommerce Plugin
+# ⭐ Open edX WooCommerce Plugin A
 
 It is a free, open-source WordPress plugin that aims to integrate third-party e-commerce, WooCommerce, with your Open edX platform.
 
