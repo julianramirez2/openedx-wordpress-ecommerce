@@ -25,7 +25,7 @@ jobs:
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: 'zip'
-          filename: 'openedx-woocommerce-plugin-2.zip'
+          filename: 'openedx-ecommerce.zip'
           exclusions: '*.git*'
 
       - name: Upload zip to latest release
@@ -33,6 +33,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.WC_PAT }}
         with:
-          file: "openedx-woocommerce-plugin-2.zip"
+          file: "openedx-ecommerce.zip"
           update_latest_release: true
           draft: false
