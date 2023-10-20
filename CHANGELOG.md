@@ -1,3 +1,11 @@
+## v1.2.1 - 2023-10-20
+
+### [1.2.1](https://github.com/julianramirez2/openedx-wordpress-ecommerce/compare/v1.2.0...v1.2.1) (2023-10-20)
+
+### Bug Fixes
+
+- deleted generate zip from ci workflow ([71df5b0](https://github.com/julianramirez2/openedx-wordpress-ecommerce/commit/71df5b086866a8e8050a27e13c461190cd2d656f))
+
 ## v1.14.3 - 2023-10-13
 
 ### [1.14.3](https://github.com/eduNEXT/openedx-wordpress-ecommerce/compare/v1.14.2...v1.14.3) (2023-10-13)
