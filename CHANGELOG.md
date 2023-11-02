@@ -1,3 +1,11 @@
+## v1.3.1 - 2023-11-02
+
+### [1.3.1](https://github.com/julianramirez2/openedx-wordpress-ecommerce/compare/v1.3.0...v1.3.1) (2023-11-02)
+
+### Bug Fixes
+
+- test ([c206b76](https://github.com/julianramirez2/openedx-wordpress-ecommerce/commit/c206b76cf61e98520bc8c0f70bd157c836e81087))
+
 ## v1.2.1 - 2023-10-20
 
 ### [1.2.1](https://github.com/julianramirez2/openedx-wordpress-ecommerce/compare/v1.2.0...v1.2.1) (2023-10-20)
